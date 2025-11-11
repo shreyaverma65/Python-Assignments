@@ -1,0 +1,25 @@
+==========================================
+ 🍽  Daily Calorie Tracker - Session Log 🍎
+===========================================
+
+📅 Session Date & Time: 08-Nov-2025 08:47 PM
+
+Meal Details:
+-----------------------------------
+| MEALS        | Calories (kcal) |
+-----------------------------------
+| breakfast    |          350.00 |
+| lunch        |          300.00 |
+| dinner       |          200.00 |
+-----------------------------------
+| TOTAL        |          850.00 |
+| Average      |          283.33 |
+-----------------------------------
+
+Daily Calorie Limit: 1000.00
+✅ Success: Calorie intake is within a healthy range!
+
+-------------------------------------------
+ 🥗 Thank you for using the Calorie Tracker! 
+ Stay healthy and eat balanced! 💪
+-------------------------------------------
