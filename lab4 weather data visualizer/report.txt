@@ -1,0 +1,51 @@
+1. Overview
+This project analyzes real-world weather data from Delhi to understand temperature patterns, humidity relationships, and seasonal variations. Data was collected over several years and cleaned, processed, analyzed, and visualized using Python, Pandas, NumPy, and Matplotlib.
+
+2. Key Insights from Analysis
+Daily Statistics
+
+Average temperature: varies between 15–30°C depending on the year
+
+Minimum temperature: around 6°C
+
+Maximum temperature: around 38°C
+
+Standard deviation indicates moderate temperature variation
+
+3. Monthly Patterns
+Temperature rises from January to June
+
+Hottest months: May–June (~33–35°C average)
+
+Cooling phase begins around July (Monsoon)
+
+Coldest months: December–January
+
+4. Yearly Trends
+Yearly averages mostly remain between 24°C to 27°C
+
+A stable climatic pattern is observed with slight variations
+
+5. Visualization Findings
+
+Line chart clearly shows seasonal cycles repeating over years
+
+Bar chart highlights temperature peaks around summer
+
+Scatter plot shows an inverse relationship between humidity and temperature
+
+Combined subplot helps compare trends side by side
+
+6. Data Cleaning & Processing
+
+Converted date column to datetime format
+
+Checked for missing values
+
+Removed NaN entries
+
+Extracted month and year for grouping
+
+7. Conclusion
+
+The visualizations and statistics demonstrate clear seasonal weather patterns, strong temperature–humidity correlation, and yearly climatic consistency. The project showcases effective use of Python for real-world data analysis, cleaning, and storytelling.
