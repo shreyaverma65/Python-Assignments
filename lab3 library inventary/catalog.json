@@ -1,0 +1,62 @@
+[
+    {
+        "title": "it ends with us",
+        "author": "collen hover",
+        "isbn": "7655",
+        "status": "available"
+    },
+    {
+        "title": "anna karenina",
+        "author": "leo tolstoy",
+        "isbn": "1",
+        "status": "available"
+    },
+    {
+        "title": "1984",
+        "author": "george orvin",
+        "isbn": "2",
+        "status": "available"
+    },
+    {
+        "title": "verity",
+        "author": "coleen hover",
+        "isbn": "3",
+        "status": "issued"
+    },
+    {
+        "title": "the girl on the train",
+        "author": "paula hawkins",
+        "isbn": "4",
+        "status": "available"
+    },
+    {
+        "title": "gone girl",
+        "author": "gillian flynn",
+        "isbn": "5",
+        "status": "issued"
+    },
+    {
+        "title": "the power of the subconcious mind",
+        "author": "joseph murphy",
+        "isbn": "6",
+        "status": "available"
+    },
+    {
+        "title": "surrounded by idiots",
+        "author": "erikson",
+        "isbn": "7",
+        "status": "available"
+    },
+    {
+        "title": "the light we lost",
+        "author": "jill santopolo",
+        "isbn": "8",
+        "status": "available"
+    },
+    {
+        "title": "a good gir's guide to murder",
+        "author": "holly jackson",
+        "isbn": "9",
+        "status": "available"
+    }
+]
