@@ -1,0 +1,4 @@
+CAMPUS ENERGY SUMMARY
+---------------------------
+Total consumption: 2491.00 kWh
+Highest consuming building: hostel (1094.00 kWh)
